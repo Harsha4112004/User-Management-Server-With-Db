@@ -35,7 +35,7 @@ Built with **MongoDB** and **Mongoose** for persistence, and **Express.js** for 
 git clone https://github.com/Harsha4112004/User-Management-Server-With-Db.git
 cd user_management_server_with_db
 ```
-2. In the .env file and paste your MongoDB connection link:
+2. Create the .env file and paste your MongoDB connection link:
 ```bash
 PORT=3000
 DB_URL=<your-mongodb-connection-string>/<your database name>
