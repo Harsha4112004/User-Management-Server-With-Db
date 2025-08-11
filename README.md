@@ -32,7 +32,7 @@ Built with **MongoDB** and **Mongoose** for persistence, and **Express.js** for 
 ## ⚙️ Setup Instructions
 1. Clone the Repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/Harsha4112004/User-Management-Server-With-Db.git
 cd user_management_server_with_db
 ```
 2. In the .env file and paste your MongoDB connection link:
